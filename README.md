@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ### Codewars
 [![Codewars](https://www.codewars.com/users/a7r-bit/badges/micro)](https://www.codewars.com/users/a7r-bit)
 
