@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+### Codewars
+[![Codewars](https://www.codewars.com/users/a7r-bit/badges/micro)](https://www.codewars.com/users/a7r-bit)
+
+
 <!--
 **a7r-bit/a7r-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
